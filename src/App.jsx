@@ -5,7 +5,7 @@ import {
   Typography,
   IconButton,
   ButtonGroup,
-  Checkbox,
+  Checkbox, 
   Rating,
 } from "@mui/material";
 import { FaDeleteLeft } from "react-icons/fa6";
